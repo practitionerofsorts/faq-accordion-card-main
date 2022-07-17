@@ -96,7 +96,7 @@ h1{
     padding-bottom: 1em;
 }
 .faq.is-open .answer{
-    max-height: 3.7em;
+    max-height: 4em;
 }
 .arrow{
     transition: 1s ease;
