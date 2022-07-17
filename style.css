@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
 
 :root{
 --Very-dark-desaturated-blue: hsl(238, 29%, 16%);
@@ -19,7 +19,7 @@ body{
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    font-family: ;
+    font-family: 'Kumbh Sans', sans-serif;
 }
 .container{
     display: flex;
@@ -105,7 +105,7 @@ h1{
     transform: rotateZ(180deg);
 }
 .faq.faq.is-open .question{
-    font-weight: 600;
+    font-weight: 700;
 }
 @media (max-width:1000px){
     .container{
